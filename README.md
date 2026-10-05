@@ -1,6 +1,3 @@
-# data-analytics-portfolio
-Data Analytics portfolio featuring SQL, PostgreSQL, Power BI, Python and Cloud projects focused on business analysis and decision-making.
-
 # Data Analytics Portfolio
 
 This repository contains my projects and studies in Data Analytics.
